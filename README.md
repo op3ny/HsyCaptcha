@@ -1,6 +1,6 @@
 # HsyCaptcha
 ## Idealizado por [Kael](https://github.com/oimeu)
-## Programado por [Humberto](https://github.com/op3ny)
+## Programado por [op3n](https://github.com/op3ny)
 
 # Tutorial de Uso
 Caso você queira apenas instalar o HsyCaptcha, [Clique Aqui!](https://github.com/Hsyst/HsyCaptcha/blob/main/tutorial-de-uso.md)
@@ -146,5 +146,5 @@ Nas linha 12-15 (12 a 15) você tem a configuração de cors já definida, basta
 Agradecemos pela escolha do HsyCaptcha, e caso você tenha gostado do projeto, considere acessar o [nosso site!](https://hsyst.xyz)
 
 # Créditos
-- [Humberto](https://github.com/op3ny) - Criação, penterest e desenvolvimento do projeto.
+- [op3n](https://github.com/op3ny) - Criação, pentest e desenvolvimento do projeto.
 - [Kael](https://github.com/oimeu) - Idealização
